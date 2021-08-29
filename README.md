@@ -42,3 +42,17 @@ D - right
 
 ## Layout
 
+```
+.
+├── cmd
+│   ├── cli.go
+│   └── main.go
+├── go.mod
+├── README.md
+└── src
+    ├── board.go
+    ├── coordinates.go
+    ├── food.go
+    ├── game.go
+    └── snake.go
+```
