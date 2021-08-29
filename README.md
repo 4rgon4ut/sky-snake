@@ -1,5 +1,8 @@
 # Simple console snake
 
+![image](https://user-images.githubusercontent.com/59182467/131235146-093c1693-4f40-4480-b9ee-35b13eaf2331.png)
+
+
 &nbsp;
 
 ## Installation && compilation
